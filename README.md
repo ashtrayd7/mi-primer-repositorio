@@ -1,2 +1,5 @@
-# mi-primer-repositorio
-este repositorio se puede editar, es el primero
+# ESTE ES SOLO UNA PRUEBA SOBRE EL REPOSITORIO 
+
+### ES UNA PRUEBA PARA QUE EN EL FUTURO YA SEPA COMO SE PUEDE SUBIR EL REPOSITORIO ALA TERMINAL 
+
+#### PSDT SOY EL MEJOR 
